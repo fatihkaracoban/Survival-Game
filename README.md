@@ -58,8 +58,8 @@ This is a text-based survival adventure game developed in Java, following object
    
 2. Compile and run using Java compiler:
    ```bash
-     javac Main.java
-     java Main
+   javac Main.java
+   java Main
 
 📄 License
 This project is intended for educational purposes and is open for modification and improvement.
