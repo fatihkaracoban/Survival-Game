@@ -24,8 +24,15 @@ Java ile geliştirilmiş, nesne yönelimli programlama prensiplerine uygun bir *
    cd Survival-Game
    
 2. Java derleyici ile derleyip çalıştırın:
-  javac Main.java
-  java Main
+   ```bash
+   javac Main.java
+   java Main
+   
+📄 Lisans
+Bu proje eğitim amaçlıdır ve değiştirilip geliştirilmeye açıktır.
+
+🤝 Katkılar
+Oyunu geliştirmek için sorunlar açabilir veya pull request gönderebilirsiniz!
 
 *********************************************************************************************************************************************************************************************************************
 
